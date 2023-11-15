@@ -1,5 +1,3 @@
-Understood! Here's the updated list without the cancelled quiz:
-
 ### For CSE 334 (Pervasive Computing):
 1. **Presentation Group Assignment**
    - [Group Presentation Document](https://docs.google.com/document/d/1sKr-9WAKgfbBr2D8vWf6QVrYl4tseI7Ln-88XSi0cw0/edit?usp=sharing)
