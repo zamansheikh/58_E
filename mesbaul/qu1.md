@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    int x = 4, y = 0, a = 3, b = 1, c; // Initial values: x = 4, y = 0, a = 3, b = 1
+    int x = 4, y = 0, a = 3, b = 1, c; // Initial values: x = 4, y = 0, a = 3, b = 1 Because my Daffodils id : 4031
 
     c = a + b; // Line 2: c = 4 (a = 3 + b = 1)
 
