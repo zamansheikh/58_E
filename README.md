@@ -1,15 +1,25 @@
+
 # 58_E - E for Easy for Everyone
 
-## Computer Graphics - Quiz 1
+  
 
-### Objective
-
-To implement a simple 3D graphics pipeline to render a 3D object with a camera and light source.
+## Computer Graphics 
 
 ### Team Members
-1. [Zaman Sheikh]
-2. [Mohaiminul Islam Nafiz]
 
-### Tasks
+1. [Zaman Sheikh](https://github.com/zamansheikh/)
 
-Feel free to plan and organize your tasks accordingly based on the updated list.
+2. [Mohaiminul Islam Nafiz](https://github.com/Nafiz4041)
+
+  
+
+## CSE 411 (Computer Architecture & Organization)
+
+
+ 1. Quiz 01
+ 2. Slide: 1,2
+ 3. Date: 18-02-2024 (Class Time)
+
+
+
+Made edit by [StackEdit](https://stackedit.io/app#)
