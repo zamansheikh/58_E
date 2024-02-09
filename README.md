@@ -11,6 +11,12 @@
 
 2. [Mohaiminul Islam Nafiz](https://github.com/Nafiz4041)
 
+
+## Slide 02 - Display
+
+ - CRT [(157) The Cathode ray oscilloscope C.R.O-Physics-Cathode rays - YouTube](https://www.youtube.com/watch?v=Gbo7m0FAOqc&ab_channel=SirNyukuriEdwin)
+ - 
+
   
 
 ## CSE 411 (Computer Architecture & Organization)
